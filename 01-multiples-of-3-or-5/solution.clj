@@ -4,5 +4,4 @@
                     (reduce +))]
     (println result)))
 
-(println (range 1 1000))
 (solution)
